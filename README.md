@@ -1,5 +1,5 @@
 # goofypawan78
-https://edu.sjtech.org (DOWN)
+https://edu.sjtech.org (MAY BE DOWN)
 
 https://ixl.plus/
 
