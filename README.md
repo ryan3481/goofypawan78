@@ -1,7 +1,7 @@
 # goofypawan78
 https://edu.sjtech.org
 
-https://.astraltech.org
+https://edu.astraltech.org
 
 https://ixl.plus/
 
