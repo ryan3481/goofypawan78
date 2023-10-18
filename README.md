@@ -21,4 +21,4 @@ https://reading-is-cool.hop.sh/
 https://my-last-link-for-a-while.hop.sh/
 
 
-illusion.irepel.dev           emerald.irepel.org             em.bloovies.com                  www.notpiracy.org            emerald.phantomgames.dev             hi.phantomgames.dev                 em.hunters.design          em.worgey.com           emerald.goguardian.cloud               firewall-stock.shop         help.firewall-stock.shop       titaniumnetwork.gq        balls.gq        kajigs.gq            bruhs.gq
+https://illusion.irepel.dev           https://emerald.irepel.org             https://em.bloovies.com                  www.notpiracy.org            https://emerald.phantomgames.dev             https://hi.phantomgames.dev                 https://em.hunters.design          https://em.worgey.com           https://emerald.goguardian.cloud               https://firewall-stock.shop         https://help.firewall-stock.shop       https://titaniumnetwork.gq        https://balls.gq        https://kajigs.gq            https://bruhs.gq
