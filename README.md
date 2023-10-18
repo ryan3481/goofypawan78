@@ -1,5 +1,4 @@
 # goofypawan78
-https://violet-chicken-act.loca.lt
 
 https://edu.astraltech.org
 
