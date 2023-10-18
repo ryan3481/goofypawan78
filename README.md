@@ -1,5 +1,5 @@
 # goofypawan78
-https://edu.sjtech.org
+https://violet-chicken-act.loca.lt
 
 https://edu.astraltech.org
 
