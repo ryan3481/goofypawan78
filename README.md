@@ -1,21 +1,12 @@
 # goofypawan78
 
-https://edu.astraltech.org
-
 https://ixl.plus/
 
-
-For the three below you will have to use it in a regular chrome window. It will open in about:blank after you allow pop-ups.
-
-https://isaac-scar-12-smells.hop.sh/
-
-https://reading-is-cool.hop.sh/
-
-https://my-last-link-for-a-while.hop.sh/
+_more coming soon, once I find a reliable source for links._
 
 **NEW!! EXTENSION DISABLER (NOT PATCHED)** 
 
-1. Create a bookmark folder and paste the extension page lots of times. (About 800 minimum is recommended assuming your Chromebook is average school quality) It is recommended that you add the extension page at the beginning of the folder.
+1. Create a bookmark folder and paste the extension page [chrome-extension://EXTENSION ID/manifest.json] lots of times. (About 800 minimum is recommended assuming your Chromebook is average school quality) It is recommended that you add the extension page at the beginning of the folder.
 
 2. Right click and open all in a new window.
 
