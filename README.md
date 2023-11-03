@@ -2,6 +2,16 @@
 
 https://hydrogen-element.vercel.app/static/
 
+https://doxr.soundcast.me/
+
+https://schoolfootballteams.ctx.cl/
+
+https://mathisforteachers.ctx.cl/
+
+https://mathisforlosers.ctx.cl/
+
+https://magicintheworld.ctx.cl/
+
 _more coming soon, once I find a reliable source for links._
 
 
