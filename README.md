@@ -1,7 +1,5 @@
 # goofypawan78
 
-https://hydrogen-element.vercel.app/static/
-
 https://doxr.soundcast.me/
 
 https://schoolfootballteams.ctx.cl/
@@ -14,7 +12,8 @@ https://magicintheworld.ctx.cl/
 
 _more coming soon, once I find a reliable source for links._
 
-
+join the Titanium Network discord server for more
+https://discord.gg/unblock
 
 
 
