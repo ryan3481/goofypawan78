@@ -21,8 +21,8 @@ https://discord.gg/unblock
 
 
 
-**NEW!! EXTENSION DISABLER (NOT PATCHED)** 
-<details>
+
+<**NEW!! EXTENSION DISABLER (NOT PATCHED)** >
 1. Create a bookmark folder and paste the extension page [chrome-extension://EXTENSION ID/manifest.json] lots of times. (About 800 minimum is recommended assuming your Chromebook is average school quality) It is recommended that you add the extension page at the beginning of the folder.
 
 2. Right click and open all in a new window.
