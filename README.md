@@ -15,7 +15,7 @@ _more coming soon, once I find a reliable source for links._
 join the Titanium Network discord server for more
 https://discord.gg/unblock
 
-<stuff>
+<details>
 1. Create a bookmark folder and paste the extension page [chrome-extension://EXTENSION ID/manifest.json] lots of times. (About 800 minimum is recommended assuming your Chromebook is average school quality) It is recommended that you add the extension page at the beginning of the folder.
 
 2. Right click and open all in a new window.
@@ -29,4 +29,4 @@ https://discord.gg/unblock
 6. Close everything and you're good to go. If it didn't work, try adjusting the number of tabs being opened.
 
 (credits to 3hk0 on github) 
-</stuff>
+</details>
