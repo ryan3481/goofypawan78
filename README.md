@@ -25,6 +25,8 @@ https://osmium.ech0.dev
  
  4. Open the folder in a new window again, and Chrome should hang those tabs to take care of the old ones in the background that were just closed. (Equivalent to the duplicate tab step in Bypassi's method)
 
+  https://insight.autumn.shekinahphotography.com/ 
+
  5. Flip the Allow access to file URLs switch in the extension settings and then you've bypassed the patch and the exploit is working.
 
  6. Close everything and you're good to go. If it didn't work, try adjusting the number of tabs being opened.
