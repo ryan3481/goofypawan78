@@ -14,11 +14,8 @@ https://magicintheworld.ctx.cl/
 </details>
 <details><summary>Phantom Games</summary>
 
-https://legosonfloor.0rg.us
+none rn
 
-https://the.ucronradio.com
-
-https://please.amirpanah.com/
 </details>
 <details><summary>Extension Disabler</summary>
  1. Create a bookmark folder and paste the extension page [chrome-extension://EXTENSION ID/manifest.json] lots of times. (About 800 minimum is recommended assuming your Chromebook is average school quality) It is recommended that you add the extension page at the beginning of the folder. TUTORIAL FOR SETUP CAN BE FOUND HERE: https://youtu.be/PbJKadsZA3o
